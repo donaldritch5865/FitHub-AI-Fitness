@@ -1,0 +1,33 @@
+he front-end HTML, CSS, and minimal JavaScript for a fitness website called "FitnessAI," based on the visual style of the four provided images.
+
+The website should have a landing page with three vertically scrolling sections:
+
+Hero Section (based on the first image): A full-height section with a dark, gradient overlay. It should contain a logo, navigation links ("Home", "AI Models", "Workout", "Get Started"), a large headline "Transform Your Fitness Journey," a descriptive subheading, and two prominent buttons: "Start AI Workout" (with a gradient background) and "Explore AI Models" (with a dark background and white border).
+
+Features Section (inspired by the third image): This section will appear on scrolling down. It should have a title "Powered by Advanced AI" and a layout showcasing three key features in distinct visual blocks or cards. Each block should have an icon, a title (e.g., "Real-time Pose Detection"), and a brief description, using the color scheme and dark background style of the image.
+
+Call-to-Action Section (inspired by the second image): This final scrolling section should feature the text "Ready to Experience AI Fitness?" and a prominent, gradient-filled button labeled "Begin AI Training." Include a simple footer with the "FitnessAI" name and copyright information.
+
+The fourth image shows the layout for a separate "AI Models" page. When the user clicks the "Explore AI Models" button in the hero section or the "AI Models" link in the navigation, they should be taken to this new page.
+
+The "AI Models" page should have a similar dark theme and contain a three-column layout, with each column representing an AI model (e.g., "AI Workout Trainer"). Each model should be visually represented (as in the image), have a title, a list of key features, and a button (e.g., "Start Workout Session" with a gradient, and "Coming Soon" for other models).
+
+Technical Guidelines:
+
+Use modern HTML5 semantic tags.
+
+Style the website using CSS, ensuring a dark theme with vibrant gradients for buttons and accents, consistent with the provided images.
+
+Use a clean, sans-serif font.
+
+Implement smooth scrolling for the sections on the landing page.
+
+Create a separate HTML file for the "AI Models" page.
+
+Use basic JavaScript for navigation between the landing page and the "AI Models" page if needed.
+
+Ensure the layout is responsive for different screen sizes using CSS media queries.
+
+Focus on replicating the visual design and basic navigation flow shown in the images.
+
+Do not implement any backend functionality or data handling.
